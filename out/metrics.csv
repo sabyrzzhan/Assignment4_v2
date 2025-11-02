@@ -1,0 +1,7 @@
+metric,value
+scc_dfs_calls,8
+scc_edges_seen,7
+kahn_pushes,18
+kahn_pops,18
+dag_relax,3
+dag_long_relax,4
